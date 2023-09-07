@@ -1,0 +1,90 @@
+anyio @ file:///tmp/build/80754af9/anyio_1644481698350/work/dist
+astor==0.8.1
+attrdict==2.0.1
+Babel==2.12.1
+bce-python-sdk==0.8.90
+beautifulsoup4==4.12.2
+bidict==0.22.1
+blinker==1.6.2
+cachetools==5.3.1
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+charset-normalizer==3.2.0
+click==8.1.7
+contourpy==1.1.0
+cssselect==1.2.0
+cssutils==2.7.1
+cycler==0.11.0
+Cython==3.0.2
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+et-xmlfile==1.1.0
+fire==0.5.0
+Flask==2.3.3
+flask-babel==3.1.0
+fonttools==4.42.1
+future==0.18.3
+h11 @ file:///tmp/build/80754af9/h11_1620423447028/work
+h2 @ file:///tmp/build/80754af9/h2_1615904319604/work
+hpack==4.0.0
+httpcore @ file:///tmp/abs_47lp4jz61l/croots/recipe/httpcore_1659344179519/work
+httpx @ file:///tmp/abs_931x1eug8t/croots/recipe/httpx_1659460911452/work
+hyperframe==6.0.1
+idna @ file:///croot/idna_1666125576474/work
+imageio==2.31.3
+imgaug==0.4.0
+importlib-metadata==6.8.0
+importlib-resources==6.0.1
+itsdangerous==2.1.2
+Jinja2==3.1.2
+kiwisolver==1.4.5
+lazy_loader==0.3
+lmdb==1.4.1
+lxml==4.9.3
+MarkupSafe==2.1.3
+matplotlib==3.7.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+networkx==3.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+openpyxl==3.1.2
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging==23.1
+paddle-bfloat==0.1.7
+paddleocr==2.7.0.2
+paddlepaddle @ file:///package/paddlepaddle-2.5.1-cp38-cp38-linux_x86_64.whl#sha256=5cd0be894444305dbe34505b0c36fd1f21168adacdab410bd753f7e20a81f3bc
+pandas==2.0.3
+pdf2docx==0.5.6
+Pillow==9.4.0
+premailer==3.10.0
+protobuf==3.20.3
+psutil==5.9.5
+pyclipper==1.3.0.post4
+pycryptodome==3.18.0
+PyMuPDF==1.20.2
+pyparsing==3.0.9
+python-dateutil==2.8.2
+python-docx==0.8.11
+python-engineio==4.7.0
+python-socketio==5.9.0
+pytz==2023.3.post1
+PyWavelets==1.4.1
+rapidfuzz==3.2.0
+rarfile==4.0
+requests==2.31.0
+rfc3986 @ file:///Users/ktietz/demo/mc3/conda-bld/rfc3986_1629478296451/work
+scikit-image==0.21.0
+scipy==1.10.1
+shapely==2.0.1
+six==1.16.0
+sniffio @ file:///tmp/build/80754af9/sniffio_1614030475067/work
+soupsieve==2.5
+termcolor==2.3.0
+tifffile==2023.7.10
+tqdm==4.66.1
+tzdata==2023.3
+urllib3==2.0.4
+visualdl==2.5.3
+Werkzeug==2.3.7
+zipp==3.16.2
